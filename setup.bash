@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by M. Fujita
 
 exec 2> /tmp/setup.log
 
