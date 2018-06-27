@@ -1,5 +1,7 @@
 #!/bin/bash -xve
-#Written by Masamichi Fujita
+=======
+#written by M. Fujita
+>>>>>>> e726d3ee78d392b8ad13ace7f3d5d3f01b8f5af7
 
 exec 2> /tmp/setup.log
 
